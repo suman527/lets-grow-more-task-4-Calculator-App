@@ -3,7 +3,7 @@ This is a calculator web application built using HTML, CSS, and JavaScript. The 
 
 ## Deployed Link
 ```
-https://64a05da357067b4d3093f253--moonlit-granita-9fa7fc.netlify.app/
+https://calculator-app-website.netlify.app/
 ```
 ## Features
 
