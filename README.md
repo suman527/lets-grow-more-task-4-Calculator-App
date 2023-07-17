@@ -3,7 +3,7 @@ This is a calculator web application built using HTML, CSS, and JavaScript. The 
 
 ## Deployed Link
 ```
-https://calculator-app-website.netlify.app/
+https://suman527.github.io/lets-grow-more-task-4-Calculator-App/
 ```
 ## Features
 
